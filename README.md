@@ -1,4 +1,5 @@
 getgenv().punch = false
+
 getgenv().tptoworld = false
 
 
